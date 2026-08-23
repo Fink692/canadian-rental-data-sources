@@ -110,6 +110,23 @@ These sources describe markets or areas. They do not validate a particular listi
 - [`docs/toronto-open-data.md`](docs/toronto-open-data.md) — a focused guide to three renter-relevant datasets from Toronto's Open Data Portal.
 - [`CONTRIBUTING.md`](CONTRIBUTING.md) — how to report a broken link or suggest an official source without publishing personal data.
 
+## Use the directory locally
+
+The repository has no runtime dependencies. Clone it, then open `README.md` in a browser or `data/sources.csv` in a spreadsheet program:
+
+```sh
+git clone https://github.com/Fink692/canadian-rental-data-sources.git
+cd canadian-rental-data-sources
+```
+
+Python 3 contributors can run the dependency-free structural check before proposing a source change:
+
+```sh
+python scripts/validate_sources.py
+```
+
+The validator checks the CSV schema, required values, URL shape, ISO source-check dates, and accidental duplicate rows. It does not contact external sites; contributors must still open each official source and verify it manually.
+
 ## Limitations
 
 Public records can be incomplete, delayed, corrected, removed, or scoped differently across cities. This directory does not reproduce source data and does not endorse conclusions about residents, owners, neighbourhoods, or protected groups. Always open the source, read its date and methodology, and verify important facts directly.

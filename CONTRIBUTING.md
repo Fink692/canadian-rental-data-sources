@@ -28,4 +28,12 @@ Include:
 5. Its most important limitation.
 6. The date you checked it.
 
+Before opening a pull request, run:
+
+```sh
+python scripts/validate_sources.py
+```
+
+The script uses only the Python 3 standard library. A passing result confirms the directory structure, not the accuracy or current availability of an external source; verify every proposed URL with the official publisher.
+
 By contributing, you agree that your original contribution is available under this repository's license. Third-party source data remains governed by its publisher's terms.
