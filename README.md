@@ -107,6 +107,7 @@ These sources describe markets or areas. They do not validate a particular listi
 
 - [`data/sources.csv`](data/sources.csv) — machine-readable directory with coverage and limitations.
 - [`docs/methodology.md`](docs/methodology.md) — selection, verification, and maintenance rules.
+- [`docs/toronto-open-data.md`](docs/toronto-open-data.md) — a focused guide to three renter-relevant datasets from Toronto's Open Data Portal.
 - [`CONTRIBUTING.md`](CONTRIBUTING.md) — how to report a broken link or suggest an official source without publishing personal data.
 
 ## Limitations
