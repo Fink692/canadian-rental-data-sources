@@ -2,6 +2,8 @@
 
 An open, source-dated directory of official Canadian resources for researching a rental address before signing a lease. It starts with ten cities: Vancouver, Calgary, Edmonton, Winnipeg, Toronto, Hamilton, Ottawa, Montréal, Québec City, and Halifax.
 
+**Français — Québec :** [Rechercher une adresse locative à Québec avec des sources officielles](docs/ville-de-quebec-sources-officielles.md).
+
 > **Builder disclosure:** I’m Charles Backman, the builder of BlockScore. BlockScore may benefit if readers choose to join its early-access list. This repository is an independently maintained public resource; no listed government body or data provider sponsors or endorses it.
 
 This is a research checklist, not a rating system. It does **not** rate personal safety, verify a property's physical condition, give legal advice, or guarantee that a home is suitable.
@@ -110,6 +112,7 @@ These sources describe markets or areas. They do not validate a particular listi
 - [`data/sources.csv`](data/sources.csv) — machine-readable directory with coverage and limitations.
 - [`docs/methodology.md`](docs/methodology.md) — selection, verification, and maintenance rules.
 - [`docs/toronto-open-data.md`](docs/toronto-open-data.md) — a focused guide to three renter-relevant datasets from Toronto's Open Data Portal.
+- [`docs/ville-de-quebec-sources-officielles.md`](docs/ville-de-quebec-sources-officielles.md) — guide en français pour consulter prudemment cinq sources officielles à Québec.
 - [`CONTRIBUTING.md`](CONTRIBUTING.md) — how to report a broken link or suggest an official source without publishing personal data.
 
 ## Use the directory locally
