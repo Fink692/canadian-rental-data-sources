@@ -1,6 +1,6 @@
 # Canadian Rental Address Research
 
-An open, source-dated directory of official Canadian resources for researching a rental address before signing a lease. It starts with ten cities: Vancouver, Calgary, Edmonton, Winnipeg, Toronto, Hamilton, Ottawa, Montréal, Québec City, and Halifax.
+An open, source-dated directory of official Canadian resources for researching a rental address before signing a lease. It starts with eleven cities: Vancouver, Victoria, Calgary, Edmonton, Winnipeg, Toronto, Hamilton, Ottawa, Montréal, Québec City, and Halifax.
 
 **Français — Québec :** [Rechercher une adresse locative à Québec avec des sources officielles](docs/ville-de-quebec-sources-officielles.md).
 
@@ -54,6 +54,7 @@ The Government of Canada's [first-apartment renting guide](https://www.canada.ca
 | City | Property, permit, or building check | Neighbourhood context | Important limitation |
 | --- | --- | --- | --- |
 | **Vancouver** | [Permit search by address](https://plposweb.vancouver.ca/Public/Default.aspx?PossePresentation=PermitSearchByAddress) and [VanMap](https://maps.vancouver.ca/portal/home/item.html?id=2f4c0f13cd7c44c99b1cf4e8a990922d) | [VPD crime statistics / GeoDASH](https://vpd.ca/crime-statistics/) | Police locations may be offset or aggregated. Permit history does not establish current condition. |
+| **Victoria** | [Permit-record access](https://www.victoria.ca/building-business/permits-development-construction/building-renovating/accessing-permit-records) and [Development Tracker](https://www.victoria.ca/building-business/permits-development-construction/development-tracker) | [VicMap](https://www.victoria.ca/building-business/maps) | Permit and application records do not prove lawful occupancy, completed work, or current condition. VicMap is informational; confirm zoning with the City. |
 | **Calgary** | [Property research](https://www.calgary.ca/info-requests/property-details.html) and [Development Map guide](https://www.calgary.ca/development/permits/using-development-map.html) | [Calgary Police Service open data](https://data.calgarypolice.ca/) | Some property reports are paid. Police data is community-level context, not an address verdict. |
 | **Edmonton** | [Development permits map](https://data.edmonton.ca/Urban-Planning-Economy/Development-Permits-Map-View/66ut-y7w2) and [property assessment dataset](https://data.edmonton.ca/widgets/q7d6-ambg?mobile_redirect=true) | [EPS neighbourhood crime mapping](https://www.edmontonpolice.ca/CrimeFiles/NeighbourhoodCrimeMapping) | Assessment records can lag. Neighbourhood statistics do not predict an individual's experience. |
 | **Winnipeg** | [Property information and records](https://www.winnipeg.ca/building-development/property-information-records) and [assessment search](https://assessment.winnipeg.ca/asmtpub/english/propertydetails/RealtySearch.htm) | [WPS crime and calls-for-service map](https://www.winnipeg.ca/police/crime-prevention/crime-calls-service-map) | Some file searches are paid. Crime data has a publication lag and calls are generalized. |
