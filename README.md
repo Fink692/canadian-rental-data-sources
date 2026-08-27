@@ -78,6 +78,7 @@ The Government of Canada's [first-apartment renting guide](https://www.canada.ca
 | --- | --- | --- |
 | British Columbia | [Residential Tenancy Branch](https://www2.gov.bc.ca/gov/content/housing-tenancy/residential-tenancies) | Agreements, deposits, rent, repairs, notices, entry, and dispute resolution. |
 | Alberta | [Residential tenancies](https://www.alberta.ca/residential-tenancies) and [RTDRS](https://www.alberta.ca/residential-tenancy-dispute-resolution-service) | Rights and responsibilities, inspections, deposits, notices, and disputes. |
+| Saskatchewan | [Office of Residential Tenancies](https://www.saskatchewan.ca/Government/Government-Structure/Boards-Commissions-and-Agencies/Office-of-Residential-Tenancies) | Agreements, deposits, repairs, notices, rent changes, and disputes; jurisdiction and exemptions apply. |
 | Manitoba | [Residential Tenancies Branch](https://www.gov.mb.ca/cca/rtb/) | Rent, deposits, repairs, rights, orders, and disputes. |
 | Ontario | [Renting in Ontario: your rights](https://www.ontario.ca/page/renting-ontario-your-rights) and [Landlord and Tenant Board](https://tribunalsontario.ca/ltb/) | Standard lease, deposits, rent increases, maintenance, notices, and disputes. |
 | Québec | [Tribunal administratif du logement](https://www.tal.gouv.qc.ca/en/being-a-lessee/rights-and-obligations-of-the-lessee) | Lease, rent, payments, condition, access, notices, and tribunal processes. |
@@ -91,6 +92,7 @@ Municipal assessment and parcel records help confirm that an address exists, but
 | --- | --- | --- |
 | British Columbia | [LTSA title search guidance](https://ltsa.ca/property-owners/how-can-i/search-for-a-title/) | Fee; normally requires the parcel identifier (PID). |
 | Alberta | [Land titles documents and plans](https://www.alberta.ca/find-land-titles-documents-plans.aspx) | Fee; available through ARLO, SPIN2, or a registry agent. |
+| Saskatchewan | [ISC land-title search guidance](https://www.saskregistries.ca/LandTitles/FindTitle) | Online searches require an ISC account; some services have fees. Quick Search covers active titles only. |
 | Manitoba | [Registrar-General / Property Registry](https://www.gov.mb.ca/registrar-general/) | The provincial page explains registry oversight and links to the service provider. |
 | Ontario | [Land registry overview and OnLand access](https://www.ontario.ca/page/overview-land-registry) | Self-search is available online for a fee. |
 | Québec | [Québec Land Register](https://www.quebec.ca/en/housing-territory/land-information/land-register) | French online register; consultation fees apply and the lot number is useful. |
